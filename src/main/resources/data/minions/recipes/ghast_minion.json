@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "W#W",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:ghast_tear"
+    },
+    "#": {
+      "item": "minecraft:wooden_sword"
+    }
+  },
+  "result": {
+    "item": "minions:ghast_minion"
+  }
+}

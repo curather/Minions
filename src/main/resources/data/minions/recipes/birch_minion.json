@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "W#W",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:birch_log"
+    },
+    "#": {
+      "item": "minecraft:wooden_axe"
+    }
+  },
+  "result": {
+    "item": "minions:birch_minion"
+  }
+}

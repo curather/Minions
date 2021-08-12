@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "W#W",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:wheat"
+    },
+    "#": {
+      "item": "minecraft:wooden_hoe"
+    }
+  },
+  "result": {
+    "item": "minions:wheat_minion"
+  }
+}

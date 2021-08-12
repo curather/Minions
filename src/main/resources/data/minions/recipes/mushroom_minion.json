@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "W#W",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:red_mushroom_block"
+    },
+    "#": {
+      "item": "minecraft:wooden_hoe"
+    }
+  },
+  "result": {
+    "item": "minions:mushroom_minion"
+  }
+}

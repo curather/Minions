@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mixins.minions.refmap.json",
+  "package": "com.gum.minions.mixins",
+  "mixins": [
+    "ServerWorldInfoMixin"
+  ],
+  "verbose": true
+}

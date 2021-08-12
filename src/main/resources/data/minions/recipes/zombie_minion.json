@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "W#W",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "#": {
+      "item": "minecraft:wooden_sword"
+    }
+  },
+  "result": {
+    "item": "minions:zombie_minion"
+  }
+}

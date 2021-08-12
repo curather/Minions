@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "W#W",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:mutton"
+    },
+    "#": {
+      "item": "minecraft:wooden_sword"
+    }
+  },
+  "result": {
+    "item": "minions:sheep_minion"
+  }
+}
