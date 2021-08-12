@@ -1,8 +1,0 @@
-jar {
-    manifest {
-        attributes([
-            // Existing properties here
-            "MixinConfigs": "mixins.minions.json"
-        ])
-    }
-}
