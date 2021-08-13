@@ -4,7 +4,8 @@
   "refmap": "mixins.minions.refmap.json",
   "package": "com.gum.minions.mixins",
   "mixins": [
-    "ServerWorldInfoMixin"
+    "ServerWorldInfoMixin",
+    "MobEntityMixin"
   ],
   "verbose": true
 }
